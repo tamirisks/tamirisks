@@ -1,4 +1,4 @@
-# Sobre-mim-!
+# Sobre mim!
 
 Me chamo Tamiris, atualmente, sou uma estudante iniciante na área da programação, estudando Desenvolvimento de Sistemas. Pouco familiarizada com a área, mas disposta a entender e conhecer, quero aprender cada vez mais, fazendo cursos de outras linguagens e áreas da programação, além de áreas do designer; também fazendo projetos de ambos no meu tempo livre.
 
